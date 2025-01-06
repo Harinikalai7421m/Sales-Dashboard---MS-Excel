@@ -21,6 +21,7 @@ Check duplicates and Convert the excel file into the table form.
 
 The Pivot table is created.
 Sales by category:
+
 I created a sales dashboard in Excel to analyze sales by category using a pivot table. In this dashboard, the sub-category is placed in rows, the sum of sales in values, and a line chart is used to visualize the data effectively.
 
 ![Screenshot (569)](https://github.com/user-attachments/assets/3db47e07-6d05-4a92-8553-44005899b757)
@@ -32,21 +33,25 @@ I created a sales dashboard in Excel to analyze sales by category using a pivot 
 ![Screenshot (570)](https://github.com/user-attachments/assets/bee3255a-808f-4bb3-b2aa-dfbd4a734258)
 
 Top 5 customers:
+
 I created a sales dashboard in Excel to analyze the top customers based on profit. The sum of profit is filtered from largest to smallest, the top 5 customer names are selected, and a pivot chart is created to visualize the data.
 
 ![Screenshot (572)](https://github.com/user-attachments/assets/41617303-efe7-4d3e-9b49-f83909f747bf)
 
 Map:
+
 I created a sales dashboard in Excel to analyze sales by state. In this dashboard, states are placed in rows, the sum of sales is added to values, and a map chart is used to visualize the data geographically.
 
 ![Screenshot (573)](https://github.com/user-attachments/assets/2be9318d-4348-45cf-8e1d-8d1fc9381d4f)
 
 Customer Count:
+
 I created a pivot table in Excel with years placed in rows and customer names in values to calculate the count of customers. A vertical bar chart is used to visualize the customer count by year effectively.
 
 ![Screenshot (574)](https://github.com/user-attachments/assets/343dc280-8945-4af3-96f7-820c5fc471b7)
 
 Sales Dashboard:
+
 The Sales dashboard is created.
 
 ![Screenshot (575)](https://github.com/user-attachments/assets/e21eebc5-c07b-40e8-af8e-d692a7631a92)
